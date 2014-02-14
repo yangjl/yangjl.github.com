@@ -1,7 +1,6 @@
 ---
-layout: home
+layout: page
 title: home page
-avatar: yes
 ---
 
 

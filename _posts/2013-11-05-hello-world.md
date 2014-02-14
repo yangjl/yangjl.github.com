@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Hello World"
+title: "hello world"
 description: ""
 category: 
 tags: []
 ---
 {% include JB/setup %}
-
-what is this?

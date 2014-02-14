@@ -1,3 +1,17 @@
+#######confi
+name: "Jinliang Yang"
+description: "My blog"
+
+url: "http://localhost:4000"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
+
+
+##################################################
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
@@ -9,11 +23,11 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : Jinliang Yang
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
+  name : Jinliang Yang
+  email : yangjl0930@gmail.com
   github : username
   twitter : username
   feedburner : feedname
