@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://yangjl.github.io/cn
-author: 杨金良
+url: http://tengfei.name/cn
+author: 殷腾飞
 pygments: true
 
