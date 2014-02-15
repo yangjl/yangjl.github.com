@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://yangjl.github.io/en
+author: Jinliang Yang
+pygments: true
+

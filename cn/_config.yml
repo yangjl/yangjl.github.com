@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://yangjl.github.io/cn
+author: 杨金良
+pygments: true
+
