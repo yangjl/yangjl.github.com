@@ -1,2 +1,15 @@
+<<<<<<< HEAD
 _site
 
+=======
+_site/*
+_theme_packages/*
+
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+>>>>>>> e617e1b39259c7c4d5825207196c5fbae72e3e11
