@@ -1,5 +1,6 @@
 <!doctype html>
-<html>
+<html xmlns:wb="http://open.weibo.com/wb">
+
 <head>
   <meta charset="utf-8">
   <title>Jinliang Yang | 杨金良</title>
@@ -38,8 +39,10 @@
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
+    })(); 
   </script>
+  <!-- weibo -->
+  <script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
 </head>
 <body>
   <div class="container">
@@ -48,12 +51,27 @@
   <li><a href="/">Home</a></li>
   <li><a href="/cn/">中文</a></li>
   <li><a href="/en/">English</a></li>
-  <li><a href="/en/">About</a></li>
+  <li><a href="/">About</a></li>
 </ul>
+
+
 {% if page.avatar %} <p><img src="img/cover.JPG" title="Jinliang Yang" align="right" /></p> {% endif %}
-<a href="https://twitter.com/share" class="twitter-share-button" data-via="erjjones">Tweet</a> 
+
 <!-- Put this just before the closing body tag -->
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+<p> 
+<!-- flipboard --> 
+<a data-flip-widget="pro" href="http://flipboard.com/profile/yangjl">Jinliang Yang</a><script src="https://d2jsycj2ly2vqh.cloudfront.net/web/buttons/js/flbuttons.min.js" type="text/javascript"></script>
+<br />
+<!-- twitter --!> 
+<a href="https://twitter.com/Jeylen" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-dnt="true">Follow @Jeylen</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<br />
+<!-- weibo -->
+<wb:follow-button uid="2691741940" type="red_1" width="67" height="24" ></wb:follow-button>
+</p>
+
 
 {{ content }}
 
