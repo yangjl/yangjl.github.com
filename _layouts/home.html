@@ -51,7 +51,8 @@
   <li><a href="/">Home</a></li>
   <li><a href="/cn/">中文</a></li>
   <li><a href="/en/">English</a></li>
-  <li><a href="/">About</a></li>
+  <li><a href="/about/">About</a></li>
+  <li><a href="/vitae/">VITAE</a></li>
 </ul>
 
 
@@ -59,6 +60,9 @@
 
 <!-- Put this just before the closing body tag -->
 
+
+
+{{ content }}
 
 <p> 
 <!-- flipboard --> 
@@ -71,10 +75,6 @@
 <!-- weibo -->
 <wb:follow-button uid="2691741940" type="red_1" width="67" height="24" ></wb:follow-button>
 </p>
-
-
-{{ content }}
-
 
 <footer>
   <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> on GitHub | Copyright {{site.time | date:"%Y"}} by Jinliang Yang | <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>

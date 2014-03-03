@@ -3,11 +3,9 @@ layout: home
 avatar: yes
 ---
 
-社交网络这么发达，东转来，西转去，以至于很久没有写点自己的东西了。而且，在村里待了这么久，语文的能力下降
-明显。字写不好也就罢了，连话也说不利索，就是大问题了。于是在谢老师[]博客的启发下，折腾了整整好几天，终于
-把这个小博客建立起来了。博客是建立在github[]上的，使用的Jekyll[]搭建，用到了bootstrap的模板，字体和主页
-设计直接参照了谢老师[]的网站。谢谢谢老师，一并感谢其他google上的无名贡献者。github的git翻译成“给”是再恰当
-不过的了，“给予“，应该是网络的核心价值。不管网络如何损害我们的眼睛和食指，
+
+I am a little girl's father, a geneticist, an R user, a python coder and now a blogger. 
+I am a supporter of open science, open data and open publication. As the Big Data explosion, especially the next generation sequencing (NGS) data in genomic area, collaboration across multiple disciplines to solve a single problem become vital importance. If you are interested in genetics, statistics, machine learning (ML), parallel computing or data visualization, then I am your friend.    
 
 
-
+上面那些外国码子我就不翻译了。因为在村里待久了，语文能力明显下降。但是却总有说话的欲望，于是建个小站，记录生活吧。而且，借机把自己这些年的所见，所学，所想，分享一下。发扬一下“取之于网，用之于网”的臭不要脸精神。当然，也希望网络一干年青有为的狐朋狗友，共襄植物遗传领域数据开源的大业。
