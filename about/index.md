@@ -8,11 +8,11 @@ avatar: yes
 ---------
 
 # Extreme Phenotype GWAS (XP-GWAS)
-![Imgur](http://i.imgur.com/VRpjocs.png)
+![Imgur](http://i.imgur.com/Irkc4d8.png)
 ----------
 
 # Heterosis explained by positive dominant loci
-![Imgur](http://i.imgur.com/KpI20B9.png)
+![Imgur](http://i.imgur.com/VRpjocs.png)
 ----------
 
 # Genomic selection incorporating evolutionary information
