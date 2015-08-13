@@ -6,7 +6,8 @@ avatar: yes
 ##JINLIANG YANG:
 262 Robbins Hall, University of California, Davis, CA, 95618  
 Email: jolyang@ucdavis.edu | Phone: (515) 509-4552   
-Website: http://yangjl.com | Github: https://github.com/yangjl   
+Website: http://yangjl.com | Github: https://github.com/yangjl 
+CV [download]()  
 
 ##EDUCATION AND RESEARCH EXPERIENCE: 
 * 2014-present Postdoctoral Scholar in Dept. of Plant Sciences, University of California, Davis, CA, US (Supervised by Dr. Jeffrey Ross-Ibarra)
@@ -19,20 +20,20 @@ Website: http://yangjl.com | Github: https://github.com/yangjl
 
  
 ##PUBLICATIONS:
-1. *J Yang*, CT Yeh, RL Fernando, JCM Dekkers, DJ Garrick, D Nettleton, and PS Schnable. Identification and cross-validation of maize loci controlling Kernel Row Number (KRN) variation via GWAS. PLOSONE. in press
+1. **J Yang**, CT Yeh, RL Fernando, JCM Dekkers, DJ Garrick, D Nettleton, and PS Schnable. Identification and cross-validation of maize loci controlling Kernel Row Number (KRN) variation via GWAS. PLOSONE. in press
 
-2. *J Yang*, H Jiang, CT Yeh, JA Jeddeloh, D Nettleton, and PS Schnable. Identification of SNPs controlling maize Kernel Row Number (KRN) via an Extreme Phenotype Genome-Wide Association Study (XP-GWAS). The Plant Journal. in press
+2. **J Yang**, H Jiang, CT Yeh, JA Jeddeloh, D Nettleton, and PS Schnable. Identification of SNPs controlling maize Kernel Row Number (KRN) via an Extreme Phenotype Genome-Wide Association Study (XP-GWAS). The Plant Journal. in press
 
-3. S Liu, K Ying, CT Yeh, *J Yang*, R Swanson-Wagner, W Wu, T Richmond, et al. (2012). Changes in genome content generated via segregation of non-allelic homologs. The Plant journal : for cell and molecular biology, 72(3), 390–9. doi:10.1111/j.1365-313X.2012.05087.x
+3. S Liu, K Ying, CT Yeh, **J Yang**, R Swanson-Wagner, W Wu, T Richmond, et al. (2012). Changes in genome content generated via segregation of non-allelic homologs. The Plant journal : for cell and molecular biology, 72(3), 390–9. doi:10.1111/j.1365-313X.2012.05087.x
 
-4. L Koesterke, D Stanzione, M Vaughn, SM Welch, W Kusnierczyk, *J Yang*, CT Yeh, D Nettleton, and PS Schnable. (2011). An Efficient and Scalable Implementation of SNP-Pair Interaction Testing for Genetic Association Studies. 2011 IEEE International Symposium on Parallel and Distributed Processing Workshops and Phd Forum, 523–530. doi:10.1109/IPDPS.2011.190
+4. L Koesterke, D Stanzione, M Vaughn, SM Welch, W Kusnierczyk, **J Yang**, CT Yeh, D Nettleton, and PS Schnable. (2011). An Efficient and Scalable Implementation of SNP-Pair Interaction Testing for Genetic Association Studies. 2011 IEEE International Symposium on Parallel and Distributed Processing Workshops and Phd Forum, 523–530. doi:10.1109/IPDPS.2011.190
 
 ##PAPERS IN PERPARATION:
-1. *J Yang*, L Li, H Jiang, CT Yeh, RL Fernando, JCM Dekkers, DJ Garrick, D Nettleton, and PS Schnable. A GWAS for trait-associated SNPs that exhibit dominance effects provides insight into the origin of heterotic groups.
+1. **J Yang**, L Li, H Jiang, CT Yeh, RL Fernando, JCM Dekkers, DJ Garrick, D Nettleton, and PS Schnable. A GWAS for trait-associated SNPs that exhibit dominance effects provides insight into the origin of heterotic groups.
 
-2. *J Yang*, A Kusmec, T Yoshihara, W Zhang, D Nettleton, E Spalding, and PS Schnable. Moon phase correlates with maize root growth in a genotype-specific manner
+2. **J Yang**, A Kusmec, T Yoshihara, W Zhang, D Nettleton, E Spalding, and PS Schnable. Moon phase correlates with maize root growth in a genotype-specific manner
 
-3. *J Yang*, S Mezmouk, A Baumgarten, ES Buckler, KE Guill, MD McMullen, RH Mumm, and J Ross-Ibarra. Incorporation of evolutionary constraint improves genomic prediction of hybrid phenotype.
+3. **J Yang**, S Mezmouk, A Baumgarten, ES Buckler, KE Guill, MD McMullen, RH Mumm, and J Ross-Ibarra. Incorporation of evolutionary constraint improves genomic prediction of hybrid phenotype.
 
 ##PATENT APPLICATIONS:
 * PS Schnable, J Yang, RA Swanson-Wagner, D Nettleton. 2011. QTL regulating ear productivity traits in maize. U.S. Patent Application 13180986, Filed July 12, 2011. Patent Pending.
