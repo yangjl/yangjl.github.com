@@ -7,7 +7,7 @@ avatar: yes
 262 Robbins Hall, University of California, Davis, CA, 95618  
 Email: jolyang@ucdavis.edu | Phone: (515) 509-4552   
 Website: http://yangjl.com | Github: https://github.com/yangjl  
-CV [download](https://github.com/yangjl/yangjl.github.com/blob/master/CV_JLY_2015.pdf)  
+CV [download](https://github.com/yangjl/yangjl.github.com/blob/master/CV_Yang_2016.pdf)  
 
 ##EDUCATION AND RESEARCH EXPERIENCE: 
 * 2014-present Postdoctoral Scholar in Dept. of Plant Sciences, University of California, Davis, CA, US (Supervised by Dr. Jeffrey Ross-Ibarra)
